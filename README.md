@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is the same like the repository Build-an-OpenStreetMap-Route-Planner but shows the project folder hierarchy.
 
 # Route Planning Project
@@ -76,4 +75,3 @@ I write a code in C++ using real map data and A* search to find a path between t
 mapping application.
 
 This project is based on udacity C++ nanodegree program.
->>>>>>> c34eef91c852d217c173cbaf8c2d036ebdc7820b
