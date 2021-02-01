@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+This is the same like the repository Build-an-OpenStreetMap-Route-Planner but shows the project folder hierarchy.
+
 # Route Planning Project
 
 This repo contains the starter code for the Route Planning project.
